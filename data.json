@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "Booboosketch Fine Art",
+    "tagline": "Site-specific visual systems for architectural-scale environments.",
+    "email": "booboosketch@gmail.com",
+    "hero": "images/_hero/home-hero.jpg"
+  },
+  "projects": [
+    { "slug": "bridge-prep-academy", "name": "Bridge Prep Academy", "cover": "IMG_0988.jpg" },
+    { "slug": "whispering-pines-elementary", "name": "Whispering Pines Elementary", "cover": "whispering-pines-elementary-024.jpg" },
+    { "slug": "fau-research-park", "name": "FAU Research Park", "cover": "IMG_7420.jpg" },
+    { "slug": "instrumentum", "name": "Instrumentum", "cover": "IMG_1259.jpg" },
+    { "slug": "tax-collectors-office", "name": "Tax Collectors Office", "cover": "F16A4BAE-9DC6-4C84-87B1-1416D04C6A82.jpg" },
+    { "slug": "port-st-lucie", "name": "Port St. Lucie", "cover": "IMG_0055.jpg" },
+    { "slug": "5th-third-bank", "name": "5th Third Bank", "cover": "IMG_0028.jpg" },
+    { "slug": "waters-edge-elementary", "name": "Waters Edge Elementary", "cover": "IMG_7671.jpg" },
+    { "slug": "flamingo-house", "name": "Flamingo House", "cover": "flamingo-house-003.jpg" },
+    { "slug": "gardens-park", "name": "Gardens Park — Shadows of Victory", "cover": "gardens-park-027.jpg" },
+    { "slug": "trulieve", "name": "Trulieve", "cover": "trulieve-002.jpg" },
+    { "slug": "mainstreet-plaza", "name": "Mainstreet Plaza", "cover": "mainstreet-plaza-008.jpg" },
+    { "slug": "evl-nutrition", "name": "EVL Nutrition", "cover": "evl-nutrition-005.jpg" },
+    { "slug": "the-tower", "name": "The Tower", "cover": "IMG_8459.jpg" },
+    { "slug": "good-vibes-only", "name": "Good Vibes Only", "cover": "good-vibes-only-012.jpg" },
+    { "slug": "plaza-delray", "name": "Plaza Delray", "cover": "plaza-delray-002.jpg" },
+    { "slug": "restaurant-row", "name": "Restaurant Row", "cover": "IMG_7759 2.jpg" },
+    { "slug": "brightline", "name": "Brightline", "cover": "brightline.jpg" },
+    { "slug": "backyard", "name": "Backyard", "cover": "backyard-sub-002.jpg" },
+    { "slug": "pb-tax-interior", "name": "PB Tax Interior", "cover": "IMG_9233.jpg" },
+    { "slug": "sketch-design-studios", "name": "Sketch Design Studios", "cover": "IMG_8043.jpg" },
+    { "slug": "rose-all-day", "name": "Rose All Day — Riverside Miami", "cover": "DSC09479.jpeg" },
+    { "slug": "prosperity", "name": "Prosperity", "cover": "IMG_1233.jpeg" }
+  ]
+}
