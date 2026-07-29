@@ -6,6 +6,7 @@
     "hero": "images/_hero/home-hero.jpg"
   },
   "projects": [
+    { "slug": "st-thomas-more", "name": "St. Thomas More — Oakdale, CT", "cover": "st-thomas-more-005.jpg" },
     { "slug": "bridge-prep-academy", "name": "Bridge Prep Academy", "cover": "IMG_0988.jpg" },
     { "slug": "whispering-pines-elementary", "name": "Whispering Pines Elementary", "cover": "whispering-pines-elementary-024.jpg" },
     { "slug": "fau-research-park", "name": "FAU Research Park", "cover": "IMG_7420.jpg" },
